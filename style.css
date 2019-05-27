@@ -1,0 +1,53 @@
+body {
+    background: url(immagini/legnobackground.jpg)
+}
+
+
+#blocco {
+    width: 70%;
+    margin: auto;
+
+}
+
+
+#logo {
+    width: 125px;
+    margin-top: 50px;
+}
+
+
+#gmail {
+    color: white;
+    display: inline;
+}
+
+
+.check {
+    border: 2px solid white;
+    background-color: grey;
+}
+
+
+footer p,
+h2 {
+    color: white;
+
+}
+
+footer p {
+    text-align: center;
+}
+
+.mod {
+    background-color: cornsilk;
+}
+
+#numero {
+    background-color: orange;
+    border-radius: 50%;
+}
+
+
+#pow {
+    font-size: 30px;
+}
